@@ -4,6 +4,8 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 ## this is heading 2
 
+### this is heading 3
+
 # Files
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
